@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Experiments / checkpoints / logs
+ckpts_jscc/
+ckpts_semcom_bpsk/
+ckpts_semcom_qam64/
+ckpts_semcom_QAM64_6db_train/
+data/
+logs/
+runs/
