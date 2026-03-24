@@ -1,0 +1,1 @@
+python train_jscc_source_flexible.py --backbone_weights checkpoints/backbone_final.pt --code_dim 256 --split_point layer4 --snr_db 35 --outdir ckpts_jscc_flexible --epochs 50
